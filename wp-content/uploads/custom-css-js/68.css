@@ -1,0 +1,30 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Add your CSS code here.
+
+For example:
+.example {
+    color: red;
+}
+
+
+For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
+
+End of comment */ 
+
+@font-face {
+	font-family: 'Shree714';
+    src: url('wp-content/themes/twentyfifteen/fonts/Shree714.eot');
+  	src: url('wp-content/themes/twentyfifteen/fonts/Shree714.eot?#iefix') format('embedded-opentype'),
+         url('wp-content/themes/twentyfifteen/fonts/Shree714.woff') format('woff'),
+         url('wp-content/themes/twentyfifteen/fonts/Shree714.ttf') format('truetype'),
+         url('wp-content/themes/twentyfifteen/fonts/Shree714.svg#Shree714’) format('svg');
+    font-weight: normal;
+    font-style: normal; 
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Shree714";
+}
+</style>
+<!-- end Simple Custom CSS and JS -->
